@@ -40,7 +40,7 @@ cd demo-app
 
 ### 3. Configure BrowserMCP
 
-Follow the installation instructions for [BrowserMCP](https://github.com/anthropics/browser-mcp) in your AI environment.
+Follow the installation instructions for [BrowserMCP](https://browsermcp.io/) in your AI environment.
 
 ## How It Works
 
@@ -117,7 +117,7 @@ This instructs the AI to:
 ## Resources
 
 - [PM2 Documentation](https://pm2.keymetrics.io/docs/usage/quick-start/)
-- [BrowserMCP Documentation](https://github.com/anthropics/browser-mcp)
+- [BrowserMCP Documentation](https://browsermcp.io/)
 - [React Development Guide](https://reactjs.org/docs/getting-started.html)
 
 ## Contributing
